@@ -8,5 +8,6 @@ public partial class BMIView : ContentPage
 	{
         InitializeComponent();
 		BindingContext = new BMIViewModel();
+		//hola
 	}
 }
